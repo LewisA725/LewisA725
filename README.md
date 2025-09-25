@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello! 👋
+I am Lewis. I'm currently a student at Leeds Beckett University. I'm studying Computer Science.
+I'll be using my repositories to store my school work.
 
 <!--
 **LewisA725/LewisA725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
