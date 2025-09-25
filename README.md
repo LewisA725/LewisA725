@@ -1,5 +1,5 @@
 ## Hello! 👋
-I am Lewis. I'm currently a student at Leeds Beckett University. I'm studying Computer Science.
+I am Lewis. I'm currently a student at Leeds Beckett University. I'm studying Computer Science. I'm currently learning to code.
 
 I'll be using my repositories to store my school work.
 
